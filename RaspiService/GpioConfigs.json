@@ -1,0 +1,23 @@
+{
+    "SRV1":{
+        "gpioPort":"2"
+    },
+	"SRV2":{
+        "gpioPort":"3"
+    },
+	"SRV3":{
+        "gpioPort":"4"
+    },
+	"SRV4":{
+        "gpioPort":"14"
+    },
+	"SRV5":{
+        "gpioPort":"15"
+    },
+	"SRV6":{
+        "gpioPort":"18"
+    },
+	"SRV7":{
+        "gpioPort":"23"
+    }
+}

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<template>
+  <name>ServosRaspiCommands</name>
+  <numberOfButtons>21</numberOfButtons>
+  <outIP>192.168.0.26,</outIP>
+  <outPort>8888,</outPort>
+  <addLF>false</addLF>
+  <addCR>false</addCR>
+  <useTCP>false</useTCP>
+  <waitForConnection>false</waitForConnection>
+  <closeSocketWhenDone>true</closeSocketWhenDone>
+  <workInHEX>false</workInHEX>
+  <setRowHeights>false</setRowHeights>
+  <heights row1="100" row2="100" row3="100" row4="100" row5="100" row6="100" row7="100"/>
+  <buttonConfig>
+    <button1 text="SERVO1-0°" command="Servo_0#SRV1" />
+    <button2 text="SERVO1-90°" command="Servo_90#SRV1" />
+    <button3 text="SERVO1-180°" command="Servo_180#SRV1" />
+	
+	<button4 text="SERVO2-0°" command="Servo_0#SRV2" />
+    <button5 text="SERVO2-90°" command="Servo_90#SRV2" />
+    <button6 text="SERVO2-180°" command="Servo_180#SRV2" />
+	
+	<button7 text="SERVO3-0°" command="Servo_0#SRV3" />
+    <button8 text="SERVO3-90°" command="Servo_90#SRV3" />
+    <button9 text="SERVO3-180°" command="Servo_180#SRV3" />
+	
+	<button10 text="SERVO4-0°" command="Servo_0#SRV4" />
+    <button11 text="SERVO4-90°" command="Servo_90#SRV4" />
+    <button12 text="SERVO4-180°" command="Servo_180#SRV4" />
+	
+	<button13 text="SERVO5-0°" command="Servo_0#SRV5" />
+    <button14 text="SERVO5-90°" command="Servo_90#SRV5" />
+    <button15 text="SERVO5-180°" command="Servo_180#SRV5" />
+	
+	<button16 text="SERVO6-0°" command="Servo_0#SRV6" />
+    <button17 text="SERVO6-90°" command="Servo_90#SRV6" />
+    <button18 text="SERVO6-180°" command="Servo_180#SRV6" />
+	
+	<button19 text="SERVO7-0°" command="Servo_0#SRV7" />
+    <button20 text="SERVO7-90°" command="Servo_90#SRV7" />
+    <button21 text="SERVO7-180°" command="Servo_180#SRV7" />
+  </buttonConfig>
+</template>

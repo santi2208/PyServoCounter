@@ -1,0 +1,23 @@
+{
+	"0":{
+	  "functionName":"Deg0"
+	},
+	"45":{
+	  "functionName":"Deg45"
+	},
+	"90":{
+	  "functionName":"Deg90"
+	},
+	"135":{
+	  "functionName":"Deg135"
+	},
+	"180":{
+	  "functionName":"Deg180"
+	},
+	"SCANON":{
+	  "functionName":"ScanOn"
+	},
+	"SCANOFF":{
+	  "functionName":"ScanOff"
+	}
+}

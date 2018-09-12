@@ -1,0 +1,17 @@
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('digital-7.ttf');
+}
+
+.mainDiv{
+    width: 100%;
+    align-items: center;
+    color:red;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 400px;
+}
+
+.nav-size{
+    font-size: 48 !important;
+}
